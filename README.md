@@ -6,9 +6,9 @@ A smart code assistant that helps analyze and modify Terraform configurations us
 
 project/
 ├── agents/
-│ └── core.py # Core AI agent implementation
-├── github_repo_summarizer.py # Repository analysis engine
-├── main.py # Streamlit web interface
+│ └── core.py
+├── github_repo_summarizer.py
+├── main.py
 └── README.md
 ```
 
