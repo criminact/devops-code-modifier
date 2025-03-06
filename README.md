@@ -1,15 +1,6 @@
 # Terraform Code Assistant
 
 A smart code assistant that helps analyze and modify Terraform configurations using AI. This project combines repository analysis with an AI-powered interface to help developers understand and modify Terraform code.
-
-## Project Structure
-
-project/
-agents/core.py
-github_repo_summarizer.py
-main.py
-README.md
-
 ```
 
 ## Features
