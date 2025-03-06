@@ -5,11 +5,11 @@ A smart code assistant that helps analyze and modify Terraform configurations us
 ## Project Structure
 
 project/
-├── agents/
-│ └── core.py
-├── github_repo_summarizer.py
-├── main.py
-└── README.md
+agents/core.py
+github_repo_summarizer.py
+main.py
+README.md
+
 ```
 
 ## Features
