@@ -1,7 +1,6 @@
 # Terraform Code Assistant
 
 A smart code assistant that helps analyze and modify Terraform configurations using AI. This project combines repository analysis with an AI-powered interface to help developers understand and modify Terraform code.
-```
 
 ## Features
 
@@ -83,7 +82,6 @@ Example commands:
 
 "Update the VPC CIDR in the outpost example to 10.0.0.0/22"
 "Change the region in simple example from eu-west-1 to asia-south-1"
-```
 
 ## Development
 
